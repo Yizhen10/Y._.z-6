@@ -1,6 +1,6 @@
 # 今日心得 9/30
 
-今天學習寫「迴圈結構」
+今天學習寫「迴圈結構」 
 我人生第一次覺得寫程式好難 QAQ 腦袋有點疼
 
 #巢狀迴圈思考題
@@ -25,6 +25,8 @@ print()時，
 Q1:為甚麼呢???
 Q2:又有什麼功能呢???
 ```
+
+今日課堂用檔案:Python/Lesson_6_迴圈.md
 
 迴圈結構:https://colab.research.google.com/drive/1odSNZLmzteKa0JwSyL_kvYapj9CNQPdC#scrollTo=Fh5OBXKH9U5z
 
