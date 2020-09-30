@@ -22,7 +22,8 @@ h =1
 print()時，
 就只會跑出一行「11111」
 
-Q:為甚麼呢???
+Q1:為甚麼呢???
+Q2:又有什麼功能呢???
 ```
 
 迴圈結構:https://colab.research.google.com/drive/1odSNZLmzteKa0JwSyL_kvYapj9CNQPdC#scrollTo=Fh5OBXKH9U5z
