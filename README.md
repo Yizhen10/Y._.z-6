@@ -1,7 +1,8 @@
 # 今日心得 9/30
 
-今天學習寫「迴圈結構」 
-通常我們需要用到迴圈結構是在需重複相同內容的時候
+今天學習寫「迴圈結構」
+
+通常我們需要用到迴圈結構是在需重複相同內容的時候會使用到
 
 #巢狀迴圈思考題
 ```
@@ -27,6 +28,7 @@ Q2:又有什麼功能呢???
 ```
 
 今日課堂用檔案:Python/Lesson_6_迴圈.md
+
 人生第一次覺得寫程式好難　？ＱＡＱ？
 
 迴圈結構:https://colab.research.google.com/drive/1odSNZLmzteKa0JwSyL_kvYapj9CNQPdC#scrollTo=Fh5OBXKH9U5z
